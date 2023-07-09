@@ -18,8 +18,9 @@ Use the data to complete the following tasks:
 
 * The x label should be Year, the y label should be Sea Level (inches), and the title should be Rise in Sea Level.
 
+
+
+![sea_level_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/99dc09af-f301-4973-9924-4f178de506f3)
+
+
 Unit tests are written for you under **test_module.py**.
-
-
-
-
