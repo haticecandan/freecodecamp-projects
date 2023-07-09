@@ -45,3 +45,23 @@ In this project, I visualized and made calculations from medical examination dat
 For this project I visualized time series data using a line chart, bar chart, and box plots. I used **Pandas, Matplotlib, and Seaborn to visualize** a dataset containing the number of page views each day. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
 
 **File name:** fcc-forum-pageviews.csv
+
+Create a **draw_line_plot** function that uses Matplotlib to draw a line chart
+
+![line_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/d7e595d6-a2ba-449d-b422-de596cf611d5)
+
+ Create a **draw_bar_plot** function that draws a bar chart
+
+ ![bar_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/7267b134-7023-4084-9bfa-b577c22dcaf0)
+
+ Create a **draw_box_plot** function that uses Seaborn to draw two adjacent box plots
+
+ ![box_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/e2ca537f-a0ba-47ef-96c9-aa88018528b3)
+
+ ## 5-Project: Sea Level Predictor
+
+ This is the boilerplate for the Sea Level Predictor project.I analyzed a dataset of the global average sea level change since 1880. I used the data to predict the sea level change through year 2050.
+
+ **File name** : epa-sea-level.csv
+
+ ![sea_level_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/61927b3c-065f-4883-a922-7139b43be1c1)
