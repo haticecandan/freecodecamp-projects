@@ -20,6 +20,9 @@ Use the data to complete the following tasks:
 
 Unit tests are written for you under **test_module.py**.
 
+![sea_level_plot](https://github.com/haticecandan/freecodecamp-projects/assets/53252601/61927b3c-065f-4883-a922-7139b43be1c1)
+
+
 
 
 
